@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "burrito") (type "KiCad") (uri "/Users/kiandesh/Coding/ducker/Libs/easyeda2kicad.kicad_sym") (options "") (descr ""))
+)
