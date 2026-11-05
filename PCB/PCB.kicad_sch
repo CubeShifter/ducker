@@ -8152,7 +8152,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad:SOD-123_L2.7-W1.6-LS3.7-RD-1"
 			(at 78.74 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -8308,7 +8308,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad:SW-SMD_L4.0-W3.0-LS5.0"
 			(at 149.86 48.26 0)
 			(hide yes)
 			(show_name no)
