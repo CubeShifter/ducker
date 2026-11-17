@@ -1,4 +1,4 @@
-# Project Title
+# ducker
 
 A nifty pcb that works as a devboard and can do audio, can be battery powered, and also has a lil breakout board for a keyboard switch and a led.
 
