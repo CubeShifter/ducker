@@ -34,3 +34,11 @@ i think it is mit license so do whatever the hell you want with it i dont care, 
 
 - that one quackey toy thing https://duckeys.com/products/pre-order-quackey-fidget-toy-that-quacks
 - the friends we made along the way
+
+## Screenshots
+Just putting them here because I don't like how they cover the whole screen.
+<img width="2222" height="1280" alt="Screenshot 2026-11-17 at 11 49 44 AM" src="https://github.com/user-attachments/assets/e3adf122-d36d-450f-a791-7cc56b16eb2e" />
+<img width="768" height="1544" alt="Screenshot 2026-11-17 at 11 50 11 AM" src="https://github.com/user-attachments/assets/4b0e449d-9f9e-4c0f-9470-c284c5afb479" />
+<img width="886" height="1192" alt="Screenshot 2026-11-17 at 11 50 28 AM" src="https://github.com/user-attachments/assets/5cc3b7ce-3720-48dc-ab2d-d701f33f3f51" />
+
+
